@@ -5,7 +5,7 @@
 
 ---
 
-![Featured image for IDOR and Authentication Bypass article](https://kommodo.ai/i/XWVu3dac1TWzGNYLps8E)
+![IDOR Auth Bypass](./idor_auth_bypass_hero_1779818194031.png)
 
 
 ---
